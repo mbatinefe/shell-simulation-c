@@ -10,6 +10,8 @@ TreePipe is a command that creates a binary tree where:
 - Right children perform multiplication operations
 - Processes communicate using Unix pipes
 - Tree traversal follows post-order traversal
+  
+![output](https://github.com/user-attachments/assets/7921e9f3-e7f0-4fb7-a3c2-3dadf1e8fe49)
 
 ## Components
 - treePipe.c - Main implementation
